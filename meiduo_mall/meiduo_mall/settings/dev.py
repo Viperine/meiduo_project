@@ -1,3 +1,9 @@
+# coding=utf-8
+# @Time : 2020/8/10 9:15 
+# @Author : Viperine
+# @File : dev.py 
+# @Software: Pycharm
+# 开发环境配置文件
 """
 Django settings for meiduo_mall project.
 
